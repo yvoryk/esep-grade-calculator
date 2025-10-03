@@ -1,4 +1,4 @@
-# ESEP Grade Calculator
+# ESEP Grade Calculatr
 
 A Go library for calculating final course grades based on weighted averages of assignments, exams, and essays.
 
@@ -109,15 +109,3 @@ go test -cover ./...
 - `NewGradeCalculator() *GradeCalculator`: Creates a new grade calculator instance
 - `AddGrade(name string, grade int, gradeType GradeType)`: Adds a grade to the calculator
 - `GetFinalGrade() string`: Returns the final letter grade (A-F)
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Run tests to ensure everything passes
-5. Submit a pull request
-
-## License
-
-This project is for educational purposes as part of the ESEP course.
