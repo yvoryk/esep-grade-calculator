@@ -1,4 +1,4 @@
-# ESEP Grade Calculatr
+# ESEP Grade Calculator
 
 A Go library for calculating final course grades based on weighted averages of assignments, exams, and essays.
 
